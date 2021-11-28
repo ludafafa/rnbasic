@@ -65,3 +65,8 @@
     export PATH=$PATH:$ANDROID_SDK_ROOT/tools/bin
     export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
     ```
+
+12. install typescript
+    ```bash
+    npm i -g typescript ts-node
+    ```
